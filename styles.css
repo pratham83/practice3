@@ -1,0 +1,40 @@
+body{
+  position: absolute;
+  background-color: #4a47a3;
+  color: white;
+  margin-top: 0px;
+    margin-bottom: 0px;
+    background-image: url(file:///C:/Users/Pratham/AppData/Local/Temp/Rar$DIa15980.25176/bg-desktop.svg);
+}
+.main{
+  left: 800px;
+      position: absolute;
+      width: 350px;
+      height: 200px;
+      top: 100px;
+
+}
+.image{
+  position: absolute;
+top: 10px;
+float: left;
+height: 50px;
+width: 50px;
+margin: 25px;
+
+}
+.hed{
+margin-left: 50px;}
+.head1{
+  font-size: x-large;
+font-weight: bolder;
+position: absolute;
+left: 90px;
+top: 15px;
+margin-left: 55px;
+}
+.mockup{
+  top: 100px;
+    position: absolute;
+    left: 70px;
+}
